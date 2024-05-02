@@ -1,2 +1,2 @@
 # guthub-actions-pytest
-Example
+Example Githubb Action projec designed to show how make action testing Python code
